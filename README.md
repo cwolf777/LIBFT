@@ -1,4 +1,4 @@
-This repository combines three core projects from the **first circle** of the **42 school curriculum** into one cohesive C library:
+This repository combines three core projects from the **first and second circle** of the **42 school curriculum** into one cohesive C library:
 
 - **libft** – A foundational C library that reimplements essential standard functions.
 - **get_next_line** – A utility for reading lines from file descriptors.
